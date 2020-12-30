@@ -3,4 +3,4 @@ O Curso de HTML5 e CSS3 vai ensinar a criar sites usando a linguagem de marcaç�
 
 #### Aulas: :blue_book: 30 capítulos e-book + 40 Video-Aulas no Youtube
 
-#### Status do Curso: white_check_mark Concluído 1º módulo
+#### Status do Curso: :white_check_mark: Concluído 1º módulo
